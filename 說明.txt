@@ -1,0 +1,5 @@
+
+todo的上課練習
+加入datepicker功能
+以及練習用intent開啟第二個Activity畫面
+資料是抓取SharedPreferences 的資料
